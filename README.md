@@ -4,7 +4,9 @@
 HI ! My name is Hyun Joon Lee. <br>
 My goal is to become a developer. <br>
 I interested in solving algorithm now. <br>
-Thank you for visiting my github profile. <br>
+I think it is important to organize and record things. <br>
+I will store the coding acknwledge i learn, Even if it is of low Importance. <br>
+Thank you for visiting my github profile, Happy enjoy day! :) <br>
 
 ## Stats
 ![HyunJoon GitHub stats](https://github-readme-stats.vercel.app/api?username=joonda&hide=contribs,prs) 
