@@ -11,7 +11,9 @@ Thank you for visiting my github profile, Happy enjoy day! :) <br>
 ## Stats
 ![HyunJoon GitHub stats](https://github-readme-stats.vercel.app/api?username=joonda&hide=contribs,prs) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjoon19)](https://solved.ac/hjoon19/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjoon19)](https://solved.ac/hjoon19/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonda)](https://github.com/anuraghazra/github-readme-stats)
+
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
 ## Contact
   <a href="https://github.com/joonda" target="_blank">
