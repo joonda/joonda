@@ -11,9 +11,8 @@ Thank you for visiting my github profile, Happy enjoy day! :) <br>
 ## Stats
 ![HyunJoon GitHub stats](https://github-readme-stats.vercel.app/api?username=joonda&hide=contribs,prs) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjoon19)](https://solved.ac/hjoon19/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonda)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjoon19)](https://solved.ac/hjoon19/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonda&layout=compact)
 
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
 ## Contact
   <a href="https://github.com/joonda" target="_blank">
@@ -22,6 +21,7 @@ Thank you for visiting my github profile, Happy enjoy day! :) <br>
   <a href="mailto:hjoon767@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>  
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonda&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
