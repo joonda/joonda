@@ -1,12 +1,11 @@
 <div align=center>
   
 ## Hi there 👋
-HI ! My name is Hyun Joon Lee. <br>
-My goal is to become a developer. <br>
-I interested in solving algorithm now. <br>
-I think it is important to organize and record things. <br>
-I will store the coding acknwledge i learn, Even if it is of low Importance. <br>
-Thank you for visiting my github profile, Happy enjoy day! :) <br>
+HI! My name is Hyun Joon Lee working as developer. <br>
+I interested in solving algorithm. <br>
+Also, I think it is important to organize and record things. <br>
+So, I will store the coding acknwledge what i learn in this github, Even if it is of low Importance. <br>
+Thank you for visiting my github page, Happy enjoy day! :) <br>
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joonda&show_icons=true&theme=radical)
