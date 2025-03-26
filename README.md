@@ -12,7 +12,7 @@ Thank you for visiting my github page, Happy enjoy day! :) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonda&langs_count=10&layout=compact)]()
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjoon19)](https://solved.ac/hjoon19/) 
-<a href="https://solved.ac/noeul"><img src="https://mazandi.herokuapp.com/api?handle=hjoon19"></a>
+<a href="https://solved.ac/hjoon19"><img src="https://mazandi.herokuapp.com/api?handle=hjoon19"></a>
 
 
 
