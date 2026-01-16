@@ -8,7 +8,7 @@ So, I will store the coding acknwledge what i learn in this github, Even if it i
 Thank you for visiting my github page, Happy enjoy day! :) <br>
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=joonda&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=joonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=joonda&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hexarch&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjoon19)](https://solved.ac/hjoon19/) 
